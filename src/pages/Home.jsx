@@ -234,7 +234,6 @@ export default function Home() {
             <a href="#" className="store-btn">▶ <div><small>GET IT ON</small><b>Google Play</b></div></a>
             <a href="#" className="store-btn"> <div><small>DOWNLOAD ON THE</small><b>App Store</b></div></a>
           </div>
-          <small className="replace-note">Replace these buttons with your real store links before launch.</small>
         </div>
       </section>
     </>

@@ -34,9 +34,9 @@ export default function PrivacyPolicy() {
       <p>We may update this policy as the product changes. The revised version will be posted on this page with an updated date.</p>
 
       <h2>11. Contact</h2>
-      <p>For privacy questions, contact <a href="mailto:privacy@nearbyu.app">privacy@nearbyu.app</a>.</p>
+      <p>For privacy questions, contact <a href="mailto:privacy@nearbyu.app">nearbyuofficial@gmail.com</a>.</p>
 
-      <div className="legal-warning"><b>Before publishing:</b> Replace this starter policy with terms that accurately describe your real data flows, third-party SDKs, retention rules and legal entity details. This template is not legal advice.</div>
+     
     </LegalPage>
   );
 }

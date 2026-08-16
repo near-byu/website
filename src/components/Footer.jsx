@@ -32,7 +32,7 @@ export default function Footer() {
 
         <div>
           <h4>Contact</h4>
-          <a href="mailto:support@nearbyu.app">support@nearbyu.app</a>
+          <a href="mailto:nearbyuofficial@gmail.com">nearbyuofficial@gmail.com</a>
         </div>
       </div>
 

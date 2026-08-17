@@ -7,6 +7,7 @@ import Features from "./pages/Features";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import DeleteAccount from "./pages/DeleteAccount";
 import Grow from "./pages/Grow";
+import ChildSafety from "./pages/ChildSafety";
 
 export default function App() {
   return (
@@ -18,6 +19,7 @@ export default function App() {
           <Route path="/features" element={<Features />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="/grow" element={<Grow />} />
+          <Route path="/child-safety" element={<ChildSafety />} />
           <Route path="/delete-account" element={<DeleteAccount />} />
         </Routes>
       </main>

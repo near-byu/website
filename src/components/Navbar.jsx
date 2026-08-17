@@ -64,9 +64,13 @@ export default function Navbar() {
               </Link>
             )
           )}
-          <a href="#download" onClick={() => setOpen(false)} className="mt-2 inline-flex items-center justify-center gap-2 rounded-xl bg-brand-gradient p-3 text-sm font-bold text-white">
-            Get the App <ArrowUpRight size={16} />
-          </a>
+<a
+  href="/nearbyu-release.apk"
+  download="NearByU.apk"
+  className="hidden md:inline-flex items-center gap-2 rounded-[13px] bg-brand-gradient px-4 py-3 text-sm font-bold text-white shadow-[0_10px_30px_rgba(118,39,239,0.18)] hover:opacity-95 transition-opacity"
+>
+  Get the App <ArrowUpRight size={16} />
+</a>
         </div>
       )}
     </header>
